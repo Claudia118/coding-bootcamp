@@ -16,6 +16,6 @@ Welcome to the Code Camp Application repository! This repository contains the co
 - Bootstrap Sass for responsive and customizable styling.
 - JavaScript for interactive elements and functionality.
 
-# Project Screenshot
+## Project Screenshot
 
 ![Code Camp](./images/project-screenshot.PNG)
